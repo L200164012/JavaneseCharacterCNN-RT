@@ -18,4 +18,4 @@ Note:
 2. The addition of dataset might give the model more valid to predict or recognize the javanese character
 3. The noise on webcam can be configured by tweaking the captured frame
 
-My Publication Title: JAVANESE CHARACTER RECOGNITION WITH REAL-TIME DETECTION USING CONVOLUTIONAL NEURAL NETWORK
+My Publication paper: http://eprints.ums.ac.id/id/eprint/107853
